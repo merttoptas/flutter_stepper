@@ -2,6 +2,21 @@
 
 A new Flutter application.
 
+Flutter Stepper Tutorial 
+
+Vertical 
+<center> <a href="https://user-images.githubusercontent.com/24685929/50595637-4b314b00-0eb2-11e9-95f6-84893ed0c992"> <img src="https://user-images.githubusercontent.com/24685929/50595637-4b314b00-0eb2-11e9-95f6-84893ed0c992.gif" height="500" /></a></center>
+
+Horizontal
+
+Change Code 
+
+type: StepperType.horizontal
+
+<a href="https://user-images.githubusercontent.com/24685929/50595643-508e9580-0eb2-11e9-88ad-ad1313853bf5"> <img src="https://user-images.githubusercontent.com/24685929/50595643-508e9580-0eb2-11e9-88ad-ad1313853bf5.gif" height="500" /></a>
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
